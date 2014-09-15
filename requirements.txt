@@ -1,0 +1,5 @@
+robotframework-tools >= 0.1a117 #import robottools
+
+scipy
+matplotlib
+pandas
