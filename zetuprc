@@ -1,0 +1,32 @@
+[robotframework-scientificlibrary]
+
+description =
+
+author = Stefan Zimmermann <zimmermann.code@gmail.com>
+url = https://bitbucket.org/userzimmermann/robotframework-scientificlibrary
+
+license = LGPLv3
+
+python = 2.7 3.3 3.4
+
+packages =
+    ScientificLibrary
+
+zetup_config_package =
+
+classifiers =
+    Development Status :: 3 - Alpha
+    Intended Audience :: Developers
+    License :: OSI Approved
+    :: GNU Library or Lesser General Public License (LGPL)
+    Operating System :: OS Independent
+    Topic :: Software Development
+    Topic :: Utilities
+
+keywords =
+    robotframework robot framework robottools
+    testautomation test automation testlibrary library
+    scientific science numeric number
+    numpy scipy matplotlib pylab pandas
+    array vector matrix dataseries data series dataframe frame
+    compute
